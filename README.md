@@ -1,6 +1,6 @@
-# jb-react-boilerplate
+# with jb's react-boilerplate
 
-> react boilerplate in my own flavor, under my full control
+> https://github.com/jb-/jb-react-boilerplate
 
 ## Getting started
 
@@ -23,3 +23,6 @@ or to bundle for the production; `$ yarn build`
     * webpack-cli
     * webpack-dev-server
     * html-webpack-plugin
+
+
+## login with react-router-dom
